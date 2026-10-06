@@ -1,0 +1,12 @@
+export { Sidebar } from "./Sidebar";
+export { Header } from "./Header";
+export { NotificationsDrawer } from "./NotificationsDrawer";
+export { OnboardModal } from "./OnboardModal";
+export { PatientPortal } from "./PatientPortal";
+export { DashboardView } from "./DashboardView";
+export { RecordsView } from "./RecordsView";
+export { TriageView } from "./TriageView";
+export { ReportsView } from "./ReportsView";
+export { DepartmentView } from "./DepartmentView";
+export { StaffView } from "./StaffView";
+export { AuditView } from "./AuditView";
